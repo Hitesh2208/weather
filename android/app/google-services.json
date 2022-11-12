@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "506960106641",
+    "project_id": "sign-in-9b3dc",
+    "storage_bucket": "sign-in-9b3dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506960106641:android:45884cbe1cd64a32b1db30",
+        "android_client_info": {
+          "package_name": "com.example.bmi_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506960106641-njnd59etcigjpfinsqr4trtd40ble3oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmICv67Y-hlozt63X-su5pjKOMcLyRnX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506960106641-njnd59etcigjpfinsqr4trtd40ble3oe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "506960106641-bfffq39cb1mid38nq6g1l1o4ak1p7hrc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wether"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506960106641:android:17c251deee6a58e2b1db30",
+        "android_client_info": {
+          "package_name": "com.example.weather_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506960106641-njnd59etcigjpfinsqr4trtd40ble3oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmICv67Y-hlozt63X-su5pjKOMcLyRnX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506960106641-njnd59etcigjpfinsqr4trtd40ble3oe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "506960106641-bfffq39cb1mid38nq6g1l1o4ak1p7hrc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wether"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506960106641:android:98872e7dc0bd0812b1db30",
+        "android_client_info": {
+          "package_name": "com.example.wether"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506960106641-njnd59etcigjpfinsqr4trtd40ble3oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmICv67Y-hlozt63X-su5pjKOMcLyRnX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506960106641-njnd59etcigjpfinsqr4trtd40ble3oe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "506960106641-bfffq39cb1mid38nq6g1l1o4ak1p7hrc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wether"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
